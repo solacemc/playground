@@ -10,4 +10,4 @@ dylan = Person.new
 dylan.first = "Dylan"
 dylan.last = "Palmer"
 
-p dylan.full_name
+p "Hello " + dylan.full_name
